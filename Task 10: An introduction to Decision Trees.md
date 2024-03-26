@@ -10,10 +10,11 @@ A decision tree is a supervised learning algorithm used in machine learning for 
 ---
 **2. Types of Tasks Handled by Decision Trees:**
    - **Regression Tasks:** In regression tasks, decision trees predict continuous numeric values. For example, predicting house prices based on features like area, number of bedrooms, location, etc.
-    ![image](https://github.com/HemaShenoy/marvel/assets/122464897/e95d7d62-d1c5-4357-9064-aa583b1e945f)
+    
 
    - **Classification Tasks:** In classification tasks, decision trees categorize data into classes or labels. For instance, classifying emails as spam or non-spam based on features like sender, subject, content, etc.
-   - ![image](https://github.com/HemaShenoy/marvel/assets/122464897/cd839155-e4c2-4a9d-80a7-11d8dc434ab5)
+   ![image](https://github.com/HemaShenoy/marvel/assets/122464897/53dcfc4e-6254-4ed8-8437-1e32b08965c9)
+
 
 ---
 **3. How Decision Trees Work:**
