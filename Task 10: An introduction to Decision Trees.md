@@ -37,5 +37,8 @@ A decision tree is a supervised learning algorithm used in machine learning for 
    - Not as stable as some other algorithms, as small variations in data can lead to different tree structures.
 
 **6. Conclusion:**
+
+<br>
+
 Decision trees are powerful and versatile algorithms that can be used for regression and classification tasks in machine learning. They provide insights into feature importance and decision-making processes, although they require careful tuning to avoid overfitting and bias issues.
 
