@@ -80,12 +80,16 @@ link: https://colab.research.google.com/drive/1b5XWFzaAi7tAK0iSsLklZxOAwsLpnphl?
 
 
  3.Create a Figure with Multiple Plots using Subplot
+
+ 
  4.Add a Legend to the Plot
+ 
 
  5.Save Your Plot as PNG
 
 ### II. Explore the given plot types:
-<br /><br />
+
+<br />
 
  1.Make a multivariate distribution for the given dataset using the given dataset for a classification task. Understand an elementary idea of clustering, that you will explore in more detail later.
 
