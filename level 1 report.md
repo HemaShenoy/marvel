@@ -201,6 +201,7 @@ Metrics help measure how well a regression model fits the data. Key metrics incl
 - Measures the square root of the MSE.
 - **Formula:** \(RMSE = \sqrt{MSE}\)
 <br />
+
 ![Scre)](https://github.com/HemaShenoy/images/assets/122464897/e8f53f32-6760-48e5-b902-0b31d44c0852)
 
 ### Example: Mean Absolute Error (MAE)
